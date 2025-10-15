@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor .NET e entusiasta de tecnologia  
 🚀 Atualmente trabalhando em projetos de portfólio e APIs com ASP.NET Core  
-🌐 Meu site: [https://meusite.com](https://meusite.com)
+🌐 Meu site: [[https://paulogoncalvesdev.com](https://www.paulogoncalvesdev.com.br/))
 
 ---
 
@@ -16,7 +16,7 @@
 
 ### 📫 Como me encontrar
 - LinkedIn: [linkedin.com/in/paulogoncalvesdev](https://www.linkedin.com/in/devpaulogoncalves/)
-- Email: paulo@exemplo.com
+- Email: paulomontealto3@gmail.com
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogoncalvesdev&layout=compact&theme=radical)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
