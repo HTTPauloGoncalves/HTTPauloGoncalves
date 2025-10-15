@@ -15,7 +15,7 @@
 ---
 
 ### 📫 Como me encontrar
-- LinkedIn: [[linkedin.com/in/paulogoncalvesdev](https://www.linkedin.com/in/devpaulogoncalves/)])
+- LinkedIn: [linkedin.com/in/paulogoncalvesdev](https://www.linkedin.com/in/devpaulogoncalves/)]
 - Email: paulo@exemplo.com
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogoncalvesdev&layout=compact&theme=radical)
