@@ -2,7 +2,7 @@
 
 💻 Desenvolvedor .NET e entusiasta de tecnologia  
 🚀 Atualmente trabalhando em projetos de portfólio e APIs com ASP.NET Core  
-🌐 Meu site: [[https://paulogoncalvesdev.com](https://www.paulogoncalvesdev.com.br/))
+🌐 Meu site: [https://paulogoncalvesdev.com](https://www.paulogoncalvesdev.com.br/)
 
 ---
 
