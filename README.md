@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Paulo Gonçalves
 
 💻 Desenvolvedor .NET e entusiasta de tecnologia  
-🚀 Atualmente trabalhando em projetos de portfólio e Sistmas de monitoramento de Helideck
+🚀 Atualmente trabalhando em projetos de portfólio e Sistmas de monitoramento de Helideck  
 🌐 Meu site: [https://paulogoncalvesdev.com](https://www.paulogoncalvesdev.com.br/)
 
 ---
