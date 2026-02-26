@@ -18,6 +18,6 @@
 - LinkedIn: [linkedin.com/in/paulogoncalvesdev](https://www.linkedin.com/in/devpaulogoncalves/)
 - Email: paulomontealto3@gmail.com
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paulogoncalvesdev&layout=compact)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulogoncalvesdev&theme=radical)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
