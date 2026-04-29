@@ -17,7 +17,7 @@
 ### 📫 Como me encontrar
 - LinkedIn: [linkedin.com/in/paulogoncalvesdev](https://www.linkedin.com/in/devpaulogoncalves/)
 - Email: paulomontealto3@gmail.com
-- WhatsApp: [016994450904](https://api.whatsapp.com/send/?phone=5516994450904&text&type=phone_number&app_absent=0)
+- WhatsApp: [+55 (016)994450904](https://api.whatsapp.com/send/?phone=5516994450904&text&type=phone_number&app_absent=0)
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=paulogoncalvesdev&theme=radical)
 
